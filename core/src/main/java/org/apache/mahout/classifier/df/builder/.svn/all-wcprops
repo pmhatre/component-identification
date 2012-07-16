@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1196578/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/df/builder
+END
+TreeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1196578/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/df/builder/TreeBuilder.java
+END
+DefaultTreeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1196578/mahout/trunk/core/src/main/java/org/apache/mahout/classifier/df/builder/DefaultTreeBuilder.java
+END

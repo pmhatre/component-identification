@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1183642/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io
+END
+VectorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1131341/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/VectorWriter.java
+END
+TermInfoWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131341/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/TermInfoWriter.java
+END
+DelimitedTermInfoWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131421/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/DelimitedTermInfoWriter.java
+END
+AbstractClusterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1183642/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/AbstractClusterWriter.java
+END
+TextualVectorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131350/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/TextualVectorWriter.java
+END
+SequenceFileVectorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131350/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/SequenceFileVectorWriter.java
+END
+CSVClusterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1183642/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/CSVClusterWriter.java
+END
+ClusterDumperWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1183642/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/ClusterDumperWriter.java
+END
+ClusterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1180043/mahout/trunk/integration/src/main/java/org/apache/mahout/utils/vectors/io/ClusterWriter.java
+END
